@@ -14,4 +14,8 @@ public class ConcertiActivity extends Activity {
     public void a(){
     	System.out.println("Questo è il mio metodo amichetto!");
     }
+    
+    public void d(){
+    	
+    }
 }
