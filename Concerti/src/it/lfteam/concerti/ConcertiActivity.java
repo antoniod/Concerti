@@ -10,4 +10,8 @@ public class ConcertiActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
+    
+    public void a(){
+    	System.out.println("Questo è il mio metodo amichetto!");
+    }
 }
